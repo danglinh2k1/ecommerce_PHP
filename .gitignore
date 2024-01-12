@@ -8,11 +8,11 @@
 # webfonts/**
 
 
-git rm -r --cached admin/
-git rm -r --cached css/
-git rm -r --cached db/
-git rm -r --cached images/
-git rm -r --cached include/
-git rm -r --cached js/
-git rm -r --cached uploads/
-git rm -r --cached webfonts/
+# git rm -r --cached admin/
+# git rm -r --cached css/
+# git rm -r --cached db/
+# git rm -r --cached images/
+# git rm -r --cached include/
+# git rm -r --cached js/
+# git rm -r --cached uploads/
+# git rm -r --cached webfonts/
